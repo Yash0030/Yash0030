@@ -1,3 +1,3 @@
-![Particle Animation](./name2.gif)
+![Particle Animation](./name.gif)
 
 [Live Demo](https://yourusername.github.io/particle-animation/)
