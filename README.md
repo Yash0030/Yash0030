@@ -27,8 +27,8 @@ Right now, I'm diving deeper into:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsaini/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/syash6662)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-saini-/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Yash0030)  
 [![Gmail](https://img.shields.io/badge/-syash6662@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syash6662@gmail.com)
 
 
