@@ -7,7 +7,6 @@
 --- 
 
 Right now, I'm diving deeper into:
-Right now, I'm diving deeper into:
 - 🧠 **Agentic AI** and autonomous system design  
 - 🗣️ **LLMs**, prompt engineering, and RAG pipelines  
 - 🤖 **Generative AI** and multimodal applications  
